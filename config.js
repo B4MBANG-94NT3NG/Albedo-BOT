@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/4k.sanz' // ig
-global.sgh = 'https://github.com/4ksanzz/' // github
+global.sig = 'https://instagram.com/sadboy.edtz' // ig
+global.sgh = 'https://github.com/B4MBANG-94NT3NG/' // github
 global.sgc = 'https://chat.whatsapp.com/' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://nhentai.net/g/767842' //Hmmm, Ini boleh kalian isi terserah :v
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://youtube.com/4KSanzz' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sfb = 'https://www.facebook.com/Bambang.Tri.R12' // facebook
+global.syt = 'https://youtube.com/BTRCHANNEL' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '6281236167286' //dana
-global.povo = '6281236167286' //ovo
-global.pgopay = '6281236167286' //gopay
-global.plinkaja = '6281236167286' //link aja
-global.ppulsa = '6281236167286' //telkomsel
-global.ppulsa2 = '6281236167286' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/4ksanzz'
+global.pdana = '62895412691100' //dana
+global.povo = '62895412691100' //ovo
+global.pgopay = '62895412691100' //gopay
+global.plinkaja = '62895412691100' //link aja
+global.ppulsa = '62895412691100' //telkomsel
+global.ppulsa2 = '6287732200388' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.com/BTRXBOT'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281236167286'
-global.nomorown = '6281236167286'
-global.namebot = '4KEys es'
-global.nameown = 'Sanzz'
+global.nomorbot = '6287732200388'
+global.nomorown = '62895412691100'
+global.namebot = 'BTR XBOT'
+global.nameown = 'BTR'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = '4ksanzz' // nama github lu
-global.linkgithub = 'github.com/4ksanzz' // tarok link github lu
+global.namagithub = 'B4MBANG-94NT3NG' // nama github lu
+global.linkgithub = 'github.com/B4MBANG-94NT3NG' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281236167286', 'sanzz', true], 
+  ['62895412691100', 'sanzz', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 4KEYS 4K 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ Sanzz 3S˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 BTR XBOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ BTR XBOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ BTR XBOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Sanzz`
-global.packname = 'YT 4k Sanzz Bot WhatsApp'
-global.author = '                「 4k Sanzz あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By BTR`
+global.packname = ' Bot WhatsApp'
+global.author = '                「 BTR XBOT あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,8 +635,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'YT - 4K SANZZ'
-global.stickauth = `By 4K Sanzz`
+global.stickpack = 'BTR XBOT'
+global.stickauth = `By BTR XBOT`
 
 global.multiplier = 38 // The higher, The harder levelup
 
